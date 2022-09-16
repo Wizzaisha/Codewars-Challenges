@@ -8,6 +8,10 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 
 <img src="./img/challengeJS1.jpg" alt="img" width="600" height="250"/>
 
+2. Challenge 2 - Complementary DNA
+
+<img src="./img/challengeJS2.jpg" alt="img" width="600" height="250"/>
+
 <hr />
 
 ## Python challenges
@@ -15,3 +19,7 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 1. Challenge 1 - Split Strings
 
 <img src="./img/challengepy1.jpg" alt="img" width="600" height="250"/>
+
+2. Challenge 2 - Convert string to camelCase
+
+<img src="./img/challengepy2.jpg" alt="img" width="600" height="250"/>
