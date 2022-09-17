@@ -12,6 +12,10 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 
 <img src="./img/challengeJS2.jpg" alt="img" width="600" height="250"/>
 
+3. Challenge 3 - Your order please
+
+<img src="./img/challengeJS3.jpg" alt="img" width="600" height="250"/>
+
 <hr />
 
 ## Python challenges
@@ -23,3 +27,7 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 2. Challenge 2 - Convert string to camelCase
 
 <img src="./img/challengepy2.jpg" alt="img" width="600" height="250"/>
+
+3. Challenge 3 - You are a square
+
+<img src="./img/challengepy3.jpg" alt="img" width="600" height="250"/>
