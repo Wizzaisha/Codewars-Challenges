@@ -16,6 +16,14 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 
 <img src="./img/challengeJS3.jpg" alt="img" width="600" height="250"/>
 
+4. Challenge 3 - Simple Pig Lating
+
+<img src="./img/challengepy4.jpg" alt="img" width="600" height="250"/>
+
+5. Challenge 4 - Array diff
+
+<img src="./img/challengepy5.jpg" alt="img" width="600" height="250"/>
+
 <hr />
 
 ## Python challenges
@@ -31,3 +39,11 @@ This repositorio contains the solved challenges from the page Codewars, the chal
 3. Challenge 3 - You are a square
 
 <img src="./img/challengepy3.jpg" alt="img" width="600" height="250"/>
+
+4. Challenge 4 - Complementary DNA
+
+<img src="./img/challengepy4.jpg" alt="img" width="600" height="250"/>
+
+5. Challenge 5 - Sum of two lowest positive int
+
+<img src="./img/challengepy5.jpg" alt="img" width="600" height="250"/>
